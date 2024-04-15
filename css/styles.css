@@ -83,9 +83,41 @@ body {
   color: #2e2f42;
 }
 .job-title {
-font-size: 16px;
-font-weight: 400;
-line-height: 1.5;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
 }
 /*  ============  TEAM PORTFOLIO  ============  */
+.portfolio-title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+}
+.card-portfolio-title {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
 /* ============  FOOTER  ============  */
+
+.page-footer {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+}
+
+.footer-logo {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+}
+.footer-logo-web {
+  color: #4d5ae5;
+}
+.footer-text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
